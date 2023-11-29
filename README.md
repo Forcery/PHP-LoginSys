@@ -6,18 +6,18 @@ The project has in total 6 files:
 |     FILE      |               Description                   |
 |---------------|---------------------------------------------|
 | index.php     |  login/home page with  login form           |
-|---------------|---------------------------------------------|  
+  
 | login.php     |  Page with business rules for login         |
-|---------------|---------------------------------------------|
+
 | dashboard.php |  Restrict Page for authorized users only    |
-|---------------|---------------------------------------------|  
+
 | logout.php    |  File that ensures secure logout            |
-|---------------|---------------------------------------------|
+
 | config.php    |  file with information for connecting to db |
-|---------------|---------------------------------------------|
+
 | normalize.css |  like a `reset-style-browser`               |
-|---------------|---------------------------------------------|
+
 | style.css     |  Page *Stylization*                         |
-|_____________________________________________________________|
+
 
 +So iS that, enJoy...
