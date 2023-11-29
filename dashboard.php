@@ -1,10 +1,11 @@
 <?php  
 	session_start();
 
-	if(empty($_SESSION) or empty($_SESSION['login_usr']) or empty($_SESSION['name_usr'])): //User must have permission to the Restrict Page
+	//User must have permission to this Restrict Page
+	if(empty($_SESSION) or empty($_SESSION['login_usr']) or empty($_SESSION['name_usr']))
 		header("location: index.php");
-	else:
 ?>
+		
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,5 +21,3 @@
 
 </body>
 </html>
-
-<?php  endif;?>
