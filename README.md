@@ -13,11 +13,11 @@ The project has in total 6 files:
 |                                                             |
 | logout.php    |  File that ensures secure logout            |
 |                                                             |
-| config.php    |  file with information for connecting to db |
+| config.php    |  File with information for connecting to db |
 |                                                             |
-| normalize.css |  like a `reset-style-browser`               |
+| normalize.css |  Like a `reset-style-browser`               |
 |                                                             |
 | style.css     |  Page *Stylization*                         |
-|-------------------------------------------------------------|                                                             
+|                                                             
 
 +So iS that, enJoy...
